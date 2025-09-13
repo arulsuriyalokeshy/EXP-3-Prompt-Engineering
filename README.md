@@ -161,20 +161,8 @@ The focus is on comparing **performance, user experience, and response quality**
 
 ### Performance Map
 
-```mermaid
-graph TD
-    A[Prompting Tools] --> B[ChatGPT]
-    A --> C[Claude]
-    A --> D[Gemini]
-    A --> E[Cohere]
-    A --> F[Llama 3]
+<img width="1017" height="337" alt="image" src="https://github.com/user-attachments/assets/bb481428-59d7-47d2-b21e-b264e24f42a2" />
 
-    B --> B1[Best for Structured & Technical Tasks]
-    C --> C1[Best for Narrative Summaries]
-    D --> D1[Best for Speed + Quick Insights]
-    E --> E1[Best for API + Logic Extraction]
-    F --> F1[Best for Open-source & Customization]
-```
 ### Insights & Recommendations
 Claude → Superior in summarizing long technical texts with depth and coherence.<br>
 
